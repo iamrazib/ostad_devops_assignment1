@@ -1,4 +1,4 @@
-# ostad_devops_assignment1
+# Ostad DevOps Assignment1
 Local DevOps Demo Application and Exposing Local Application through ngrok
 
 
